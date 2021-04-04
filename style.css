@@ -5,7 +5,7 @@
 }
 
 #header {
-    background-image: url(teen.jpg);
+    background-image: url(teen.png);
     background-size: 730px 320px;
     background-repeat: no-repeat;
     border-bottom-right-radius: 50px;
@@ -19,12 +19,13 @@
 #judul {
     font-size: 50px;
     text-align: right;
-    padding: 200px 40px 0 0;
+    padding: 220px 40px 0 0;
 }
 
 #judul a {
-    padding: 100px;
-    color: rgb(0, 195, 255);
+    font-size: 30px;
+    font-family: cursive;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 }
 
@@ -33,8 +34,8 @@
 }
 
 .desc {
-    font-size: 30px;
-    color: rgb(0, 195, 255);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
     text-align: right;
     padding: 0 40px 0 0;
 }
